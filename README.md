@@ -1,0 +1,2 @@
+# SpreadJS_CustomizeRightClickMenu
+在纯前端在线表格中实现自定义右键菜单功能
